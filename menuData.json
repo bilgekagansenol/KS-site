@@ -1,0 +1,1016 @@
+[
+  {
+    "title": "WHO WE ARE",
+    "path": "/who-we-are",
+    "slug": "who-we-are",
+    "children": [
+      {
+        "title": "OUR PROMISE",
+        "path": "/our-promise",
+        "slug": "our-promise",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "OUR PRINCIPLES",
+        "path": "/our-principles",
+        "slug": "our-principles",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "OUR VALUES",
+        "path": "/our-values",
+        "slug": "our-values",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "REPRESENTATION AND PARTNERSHIP",
+        "path": "/representation-and-partnership",
+        "slug": "representation-and-partnership",
+        "children": [
+          {
+            "title": "Search for a supplier",
+            "path": "/search-for-a-supplier",
+            "slug": "search-for-a-supplier",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Organization of multimodal transportation",
+            "path": "/organization-of-multimodal-transportation",
+            "slug": "organization-of-multimodal-transportation",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Transaction financing",
+            "path": "/transaction-financing",
+            "slug": "transaction-financing",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Financial transit",
+            "path": "/financial-transit",
+            "slug": "financial-transit",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Delivery of oversized cargo",
+            "path": "/delivery-of-oversized-cargo",
+            "slug": "delivery-of-oversized-cargo",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Turnkey foreign trade outsourcing",
+            "path": "/turnkey-foreign-trade-outsourcing",
+            "slug": "turnkey-foreign-trade-outsourcing",
+            "children": null,
+            "hasChildren": false
+          }
+        ],
+        "hasChildren": true
+      },
+      {
+        "title": "CREATIVE SOLUTIONS",
+        "path": "/creative-solutions",
+        "slug": "creative-solutions",
+        "children": null,
+        "hasChildren": false
+      }
+    ],
+    "hasChildren": true
+  },
+  {
+    "title": "SECTOR SOLUTIONS",
+    "path": "/sector-solutions",
+    "slug": "sector-solutions",
+    "children": [
+      {
+        "title": "AĞIR SANAYİ HİZMETLERİ - ALBERK",
+        "path": "/agir-sanayi-hizmetleri-alberk",
+        "slug": "agir-sanayi-hizmetleri-alberk",
+        "children": [
+          {
+            "title": "ABOUT ALBERK",
+            "path": "/about-alberk",
+            "slug": "about-alberk",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "SECTORS",
+            "path": "/sectors",
+            "slug": "sectors",
+            "children": [
+              {
+                "title": "CEMENT",
+                "path": "/cement",
+                "slug": "cement",
+                "children": null,
+                "hasChildren": false
+              },
+              {
+                "title": "FERTILIZER",
+                "path": "/fertilizer",
+                "slug": "fertilizer",
+                "children": null,
+                "hasChildren": false
+              },
+              {
+                "title": "MINING",
+                "path": "/mining",
+                "slug": "mining",
+                "children": null,
+                "hasChildren": false
+              },
+              {
+                "title": "BUILDING MATERIALS - CONSTRUCTION",
+                "path": "/building-materials-construction",
+                "slug": "building-materials-construction",
+                "children": null,
+                "hasChildren": false
+              },
+              {
+                "title": "ASPHALT AGGREGATES & CONCRETE",
+                "path": "/asphalt-aggregates-concrete",
+                "slug": "asphalt-aggregates-concrete",
+                "children": null,
+                "hasChildren": false
+              }
+            ],
+            "hasChildren": true
+          },
+          {
+            "title": "MAIN SECTOR PRODUCT GROUPS",
+            "path": "/main-sector-product-groups",
+            "slug": "main-sector-product-groups",
+            "children": [
+              {
+                "title": "BULK MATERIAL HANDLING SOLUTIONS",
+                "path": "/bulk-material-handling-solutions",
+                "slug": "bulk-material-handling-solutions",
+                "children": null,
+                "hasChildren": false
+              },
+              {
+                "title": "GRINDING & PROCESS EQUIPMENT",
+                "path": "/grinding-process-equipment",
+                "slug": "grinding-process-equipment",
+                "children": null,
+                "hasChildren": false
+              },
+              {
+                "title": "CONCRETE SOLUTIONS",
+                "path": "/concrete-solutions",
+                "slug": "concrete-solutions",
+                "children": null,
+                "hasChildren": false
+              },
+              {
+                "title": "WASTE HEAT RECOVERY SOLUTIONS AND GREEN SOLUTIONS",
+                "path": "/waste-heat-recovery-solutions-and-green-solutions",
+                "slug": "waste-heat-recovery-solutions-and-green-solutions",
+                "children": null,
+                "hasChildren": false
+              },
+              {
+                "title": "AFTER SALES & SERVICE & SPARE PARTS",
+                "path": "/after-sales-service-spare-parts",
+                "slug": "after-sales-service-spare-parts",
+                "children": null,
+                "hasChildren": false
+              }
+            ],
+            "hasChildren": true
+          },
+          {
+            "title": "ŞİRKET PRESENTASYONU VE KATALOGLARI",
+            "path": "/sirket-presentasyonu-ve-kataloglari",
+            "slug": "sirket-presentasyonu-ve-kataloglari",
+            "children": null,
+            "hasChildren": false
+          }
+        ],
+        "hasChildren": true
+      },
+      {
+        "title": "DENİZCİLİK HİZMETLERİ - PLANET BOAT",
+        "path": "/denizcilik-hizmetleri-planet-boat",
+        "slug": "denizcilik-hizmetleri-planet-boat",
+        "children": [
+          {
+            "title": "ABOUT PLANET BOAT",
+            "path": "/about-planet-boat",
+            "slug": "about-planet-boat",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "PRODUCT LINES",
+            "path": "/product-lines",
+            "slug": "product-lines",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "DESIGN AND MANUFACTURE",
+            "path": "/design-and-manufacture",
+            "slug": "design-and-manufacture",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "POLYETHYLENE",
+            "path": "/polyethylene",
+            "slug": "polyethylene",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "AFTER SALES & SERVICE & SPARE PARTS",
+            "path": "/after-sales-service-spare-parts",
+            "slug": "after-sales-service-spare-parts",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "ŞİRKET PRESENTASYONU VE KATALOGLARI",
+            "path": "/sirket-presentasyonu-ve-kataloglari",
+            "slug": "sirket-presentasyonu-ve-kataloglari",
+            "children": null,
+            "hasChildren": false
+          }
+        ],
+        "hasChildren": true
+      },
+      {
+        "title": "DEMİRYOLU SİSTEMLERİ VE ÇÖZÜMLERİ",
+        "path": "/demiryolu-sistemleri-ve-cozumleri",
+        "slug": "demiryolu-sistemleri-ve-cozumleri",
+        "children": [
+          {
+            "title": "RAILWAY SYSTEM SOLUTION",
+            "path": "/railway-system-solution",
+            "slug": "railway-system-solution",
+            "children": [
+              {
+                "title": "ELECTRIC TRACTION MOTOR, INDUCTION GENERATORS",
+                "path": "/electric-traction-motor-induction-generators",
+                "slug": "electric-traction-motor-induction-generators",
+                "children": null,
+                "hasChildren": false
+              },
+              {
+                "title": "ELECTRIC DEVICES",
+                "path": "/electric-devices",
+                "slug": "electric-devices",
+                "children": null,
+                "hasChildren": false
+              },
+              {
+                "title": "CUSTOMIZED MASTER AND BRAKE CONTROLS",
+                "path": "/customized-master-and-brake-controls",
+                "slug": "customized-master-and-brake-controls",
+                "children": null,
+                "hasChildren": false
+              },
+              {
+                "title": "CUSTOMIZED SOLUTIONS",
+                "path": "/customized-solutions",
+                "slug": "customized-solutions",
+                "children": null,
+                "hasChildren": false
+              },
+              {
+                "title": "CUSTOMIZED SOLUTIONS FOR FREIGHT, WAGONS, BOGIES",
+                "path": "/customized-solutions-for-freight-wagons-bogies",
+                "slug": "customized-solutions-for-freight-wagons-bogies",
+                "children": null,
+                "hasChildren": false
+              },
+              {
+                "title": "PANTOGRAPH, MAIN SWITCHES, INSULATORS",
+                "path": "/pantograph-main-switches-insulators",
+                "slug": "pantograph-main-switches-insulators",
+                "children": null,
+                "hasChildren": false
+              },
+              {
+                "title": "MULTIFUNCTION TERMINALS",
+                "path": "/multifunction-terminals",
+                "slug": "multifunction-terminals",
+                "children": null,
+                "hasChildren": false
+              }
+            ],
+            "hasChildren": true
+          },
+          {
+            "title": "INTERIOR / EXTERIOR",
+            "path": "/interior-exterior",
+            "slug": "interior-exterior",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "ELECTRIC-ELECTRONICS / CONNECTION EQUIPMENTS",
+            "path": "/electric-electronics-connection-equipments",
+            "slug": "electric-electronics-connection-equipments",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "CONNECTION HARDWARES, BEARINGS, COUPLINGS, SEALING, GASKETS",
+            "path": "/connection-hardwares-bearings-couplings-sealing-gaskets",
+            "slug": "connection-hardwares-bearings-couplings-sealing-gaskets",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "CONSUMABLE",
+            "path": "/consumable",
+            "slug": "consumable",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "FIBERGLASS, POLYURETHANE, THERMOFORM PARTS PRODUCTION AND TECHNOLOGIES",
+            "path": "/fiberglass-polyurethane-thermoform-parts-production-and-technologies",
+            "slug": "fiberglass-polyurethane-thermoform-parts-production-and-technologies",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "RAILWAY TAMPING UNITS AND SPARE PARTS",
+            "path": "/railway-tamping-units-and-spare-parts",
+            "slug": "railway-tamping-units-and-spare-parts",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "AFTER SALES & SERVICE & SPARE PARTS",
+            "path": "/after-sales-service-spare-parts",
+            "slug": "after-sales-service-spare-parts",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "ŞİRKET PRESENTASYONU VE KATALOGLARI",
+            "path": "/sirket-presentasyonu-ve-kataloglari",
+            "slug": "sirket-presentasyonu-ve-kataloglari",
+            "children": null,
+            "hasChildren": false
+          }
+        ],
+        "hasChildren": true
+      },
+      {
+        "title": "OTOMOTİV SİSTEMLERİ VE ÇÖZÜMLERİ",
+        "path": "/otomotiv-sistemleri-ve-cozumleri",
+        "slug": "otomotiv-sistemleri-ve-cozumleri",
+        "children": [
+          {
+            "title": "INTERIOR / EXTERIOR",
+            "path": "/interior-exterior",
+            "slug": "interior-exterior",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "ELECTRIC-ELECTRONICS / CONNECTION EQUIPMENTS",
+            "path": "/electric-electronics-connection-equipments",
+            "slug": "electric-electronics-connection-equipments",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "CONNECTION HARDWARES, BEARINGS, COUPLINGS, SEALING, GASKETS",
+            "path": "/connection-hardwares-bearings-couplings-sealing-gaskets",
+            "slug": "connection-hardwares-bearings-couplings-sealing-gaskets",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "CONSUMABLE",
+            "path": "/consumable",
+            "slug": "consumable",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "FIBERGLASS, POLYURETHANE, THERMOFORM PARTS PRODUCTION AND TECHNOLOGIES",
+            "path": "/fiberglass-polyurethane-thermoform-parts-production-and-technologies",
+            "slug": "fiberglass-polyurethane-thermoform-parts-production-and-technologies",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "AFTER SALES & SERVICE & SPARE PARTS",
+            "path": "/after-sales-service-spare-parts",
+            "slug": "after-sales-service-spare-parts",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "ŞİRKET PRESENTASYONU VE KATALOGLARI",
+            "path": "/sirket-presentasyonu-ve-kataloglari",
+            "slug": "sirket-presentasyonu-ve-kataloglari",
+            "children": null,
+            "hasChildren": false
+          }
+        ],
+        "hasChildren": true
+      },
+      {
+        "title": "ELEKTRİK - ELEKTRONİK, OTOMASYON SİSTEMLERİ VE ÇÖZÜMLERİ",
+        "path": "/elektrik-elektronik-otomasyon-sistemleri-ve-cozumleri",
+        "slug": "elektrik-elektronik-otomasyon-sistemleri-ve-cozumleri",
+        "children": [
+          {
+            "title": "ELECTRIC & ELECTRONIC EQUIPMENTS",
+            "path": "/electric-electronic-equipments",
+            "slug": "electric-electronic-equipments",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "AUTOMATION & SYSTEMS",
+            "path": "/automation-systems",
+            "slug": "automation-systems",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "CHIP & COMPONENTS",
+            "path": "/chip-components",
+            "slug": "chip-components",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "AFTER SALES & SERVICE & SPARE PARTS",
+            "path": "/after-sales-service-spare-parts",
+            "slug": "after-sales-service-spare-parts",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "ŞİRKET PRESENTASYONU VE KATALOGLARI",
+            "path": "/sirket-presentasyonu-ve-kataloglari",
+            "slug": "sirket-presentasyonu-ve-kataloglari",
+            "children": null,
+            "hasChildren": false
+          }
+        ],
+        "hasChildren": true
+      },
+      {
+        "title": "OTEL VE ENDÜSTRİYEL MUTFAK EKİPMANLARI",
+        "path": "/otel-ve-endustriyel-mutfak-ekipmanlari",
+        "slug": "otel-ve-endustriyel-mutfak-ekipmanlari",
+        "children": [
+          {
+            "title": "MİNİBAR, REFRIGERATOR",
+            "path": "/minibar-refrigerator",
+            "slug": "minibar-refrigerator",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "KASA",
+            "path": "/kasa",
+            "slug": "kasa",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Şeffaf Kapılı Et Dolapları",
+            "path": "/seffaf-kapili-et-dolaplari",
+            "slug": "seffaf-kapili-et-dolaplari",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "FÖN",
+            "path": "/fon",
+            "slug": "fon",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Humidors at the hotel",
+            "path": "/humidors-at-the-hotel",
+            "slug": "humidors-at-the-hotel",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Wall-mounted hand dryers",
+            "path": "/wall-mounted-hand-dryers",
+            "slug": "wall-mounted-hand-dryers",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Kettles and Kettels's set for hotels",
+            "path": "/kettles-and-kettelss-set-for-hotels",
+            "slug": "kettles-and-kettelss-set-for-hotels",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Pool cleaning products",
+            "path": "/pool-cleaning-products",
+            "slug": "pool-cleaning-products",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Mutfak Malzemeleri ve Ekipmanları",
+            "path": "/mutfak-malzemeleri-ve-ekipmanlari",
+            "slug": "mutfak-malzemeleri-ve-ekipmanlari",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "ENDÜSTRİYEL FIRIN VE EKİPMANLARI",
+            "path": "/endustriyel-firin-ve-ekipmanlari",
+            "slug": "endustriyel-firin-ve-ekipmanlari",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "CAFE BAR VE BARİSTA EKİPMANLARI",
+            "path": "/cafe-bar-ve-barista-ekipmanlari",
+            "slug": "cafe-bar-ve-barista-ekipmanlari",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Utu ve utu masası",
+            "path": "/utu-ve-utu-masasi",
+            "slug": "utu-ve-utu-masasi",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "PORSELEN TAKIMLAR",
+            "path": "/porselen-takimlar",
+            "slug": "porselen-takimlar",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "ÇATAL KAŞIK BIÇAK VE CAM ÜRÜN TAKIMI",
+            "path": "/catal-kasik-bicak-ve-cam-urun-takimi",
+            "slug": "catal-kasik-bicak-ve-cam-urun-takimi",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "PİŞİRME EKİPMANLARI",
+            "path": "/pisirme-ekipmanlari",
+            "slug": "pisirme-ekipmanlari",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "MUTFAK SET ÜSTÜ EKİPMANLARI",
+            "path": "/mutfak-set-ustu-ekipmanlari",
+            "slug": "mutfak-set-ustu-ekipmanlari",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "RESTAURANT EKİPMANLARI",
+            "path": "/restaurant-ekipmanlari",
+            "slug": "restaurant-ekipmanlari",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "BAR EKİPMANLARI",
+            "path": "/bar-ekipmanlari",
+            "slug": "bar-ekipmanlari",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "AÇIK BÜFE TEŞHİR EKİPMANLARI",
+            "path": "/acik-bufe-teshir-ekipmanlari",
+            "slug": "acik-bufe-teshir-ekipmanlari",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "BAHÇE VE BALKON MOBİLYALARI",
+            "path": "/bahce-ve-balkon-mobilyalari",
+            "slug": "bahce-ve-balkon-mobilyalari",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "RESEPSİYON DİZAYN MOBİLYALAR",
+            "path": "/resepsiyon-dizayn-mobilyalar",
+            "slug": "resepsiyon-dizayn-mobilyalar",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "BANYO AKSESUARLARI VE TAMAMLAYICI ÜRÜNLER",
+            "path": "/banyo-aksesuarlari-ve-tamamlayici-urunler",
+            "slug": "banyo-aksesuarlari-ve-tamamlayici-urunler",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "EVYELER VE PASLANMAZ ÇELİK VİTRİFİYELER",
+            "path": "/evyeler-ve-paslanmaz-celik-vitrifiyeler",
+            "slug": "evyeler-ve-paslanmaz-celik-vitrifiyeler",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "BEDENSEL ENGELLİ EKİPMANLARI",
+            "path": "/bedensel-engelli-ekipmanlari",
+            "slug": "bedensel-engelli-ekipmanlari",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "ISLAK HACİM EKİPMANLARI",
+            "path": "/islak-hacim-ekipmanlari",
+            "slug": "islak-hacim-ekipmanlari",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "KAN SAKLAMA DOLAPLARI",
+            "path": "/kan-saklama-dolaplari",
+            "slug": "kan-saklama-dolaplari",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "İLAÇ SAKLAMA SOĞUTUCULARI",
+            "path": "/ilac-saklama-sogutuculari",
+            "slug": "ilac-saklama-sogutuculari",
+            "children": null,
+            "hasChildren": false
+          }
+        ],
+        "hasChildren": true
+      },
+      {
+        "title": "HVAC ÇÖZÜMLERİ VE PROJELENDİRME",
+        "path": "/hvac-cozumleri-ve-projelendirme",
+        "slug": "hvac-cozumleri-ve-projelendirme",
+        "children": [
+          {
+            "title": "HVAC ÇÖZÜMLERİ",
+            "path": "/hvac-cozumleri",
+            "slug": "hvac-cozumleri",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "TOPLU TAŞIMA ARAÇLARI HVAC ÇÖZÜMLERİ VE PROJELENDİRME",
+            "path": "/toplu-tasima-araclari-hvac-cozumleri-ve-projelendirme",
+            "slug": "toplu-tasima-araclari-hvac-cozumleri-ve-projelendirme",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "ENDÜSTRİYEL HVAC ÇÖZÜMLERİ VE PROJELENDİRME",
+            "path": "/endustriyel-hvac-cozumleri-ve-projelendirme",
+            "slug": "endustriyel-hvac-cozumleri-ve-projelendirme",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "KARAVAN İKLİMLENDİRME ÇÖZÜMLERİ",
+            "path": "/karavan-iklimlendirme-cozumleri",
+            "slug": "karavan-iklimlendirme-cozumleri",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "AFTER SALES & SERVICE & SPARE PARTS",
+            "path": "/after-sales-service-spare-parts",
+            "slug": "after-sales-service-spare-parts",
+            "children": null,
+            "hasChildren": false
+          }
+        ],
+        "hasChildren": true
+      },
+      {
+        "title": "ARAÇ SATIŞ - CKD",
+        "path": "/arac-satis-ckd",
+        "slug": "arac-satis-ckd",
+        "children": [
+          {
+            "title": "SKD - CKD PRODUCTS",
+            "path": "/skd-ckd-products",
+            "slug": "skd-ckd-products",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "8 - 12 - 18 METER COMMERCIAL VEHICLE",
+            "path": "/8-12-18-meter-commercial-vehicle",
+            "slug": "8-12-18-meter-commercial-vehicle",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Special and Commercial Vehicle",
+            "path": "/special-and-commercial-vehicle",
+            "slug": "special-and-commercial-vehicle",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Temsa, Man, Mercedes-Benz, Isuzu, Junjin",
+            "path": "/temsa-man-mercedes-benz-isuzu-junjin",
+            "slug": "temsa-man-mercedes-benz-isuzu-junjin",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Armored Vehicles with B7 and Level 2&3&4 Protection Levels",
+            "path": "/armored-vehicles-with-b7-and-level-2-3-4-protection-levels",
+            "slug": "armored-vehicles-with-b7-and-level-2-3-4-protection-levels",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Armored Vehicles with or without Gun Turrets, Armored Private VIP Vehicles",
+            "path": "/armored-vehicles-with-or-without-gun-turrets-armored-private-vip-vehicles",
+            "slug": "armored-vehicles-with-or-without-gun-turrets-armored-private-vip-vehicles",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Armored Vehicles for the Needs (Communication, Commander, Ambulance, etc.)",
+            "path": "/armored-vehicles-for-the-needs-communication-commander-ambulance-etc",
+            "slug": "armored-vehicles-for-the-needs-communication-commander-ambulance-etc",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Van/Minivan",
+            "path": "/van-minivan",
+            "slug": "van-minivan",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "Superstructure Works for Trucks",
+            "path": "/superstructure-works-for-trucks",
+            "slug": "superstructure-works-for-trucks",
+            "children": null,
+            "hasChildren": false
+          }
+        ],
+        "hasChildren": true
+      },
+      {
+        "title": "AĞIR VASITA YEDEK PARÇA ÇÖZÜMLERİ",
+        "path": "/agir-vasita-yedek-parca-cozumleri",
+        "slug": "agir-vasita-yedek-parca-cozumleri",
+        "children": [
+          {
+            "title": "AVRUPALI MARKALAR - AĞIR VASITA YEDEK PARÇA",
+            "path": "/avrupali-markalar-agir-vasita-yedek-parca",
+            "slug": "avrupali-markalar-agir-vasita-yedek-parca",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "TÜRK MARKALAR - AĞIR VASITA YEDEK PARÇA",
+            "path": "/turk-markalar-agir-vasita-yedek-parca",
+            "slug": "turk-markalar-agir-vasita-yedek-parca",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "FİYAT LİSTELERİ",
+            "path": "/fiyat-listeleri",
+            "slug": "fiyat-listeleri",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "FİYAT LİSTESİ TALEP ETME SAYFASI",
+            "path": "/fiyat-listesi-talep-etme-sayfasi",
+            "slug": "fiyat-listesi-talep-etme-sayfasi",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "ORIGINAL EQUIPMENT",
+            "path": "/original-equipment",
+            "slug": "original-equipment",
+            "children": null,
+            "hasChildren": false
+          }
+        ],
+        "hasChildren": true
+      },
+      {
+        "title": "TARIM EKİPMANLARI VE GIDA ÜRETİM ÇÖZÜMLERİ",
+        "path": "/tarim-ekipmanlari-ve-gida-uretim-cozumleri",
+        "slug": "tarim-ekipmanlari-ve-gida-uretim-cozumleri",
+        "children": [
+          {
+            "title": "TARIM EKİPMANLARI",
+            "path": "/tarim-ekipmanlari",
+            "slug": "tarim-ekipmanlari",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "GIDA ÜRÜNLERİ",
+            "path": "/gida-urunleri",
+            "slug": "gida-urunleri",
+            "children": null,
+            "hasChildren": false
+          },
+          {
+            "title": "GIDA ÜRETİM MALZEMELERİ",
+            "path": "/gida-uretim-malzemeleri",
+            "slug": "gida-uretim-malzemeleri",
+            "children": null,
+            "hasChildren": false
+          }
+        ],
+        "hasChildren": true
+      }
+    ],
+    "hasChildren": true
+  },
+  {
+    "title": "PROJECTS AND REFERENCES",
+    "path": "/projects-and-references",
+    "slug": "projects-and-references",
+    "children": [
+      {
+        "title": "TAMAMLANMIŞ PROJELER VE REFERANSLAR",
+        "path": "/tamamlanmis-projeler-ve-referanslar",
+        "slug": "tamamlanmis-projeler-ve-referanslar",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "DEVAM ETMEKTE OLAN PROJELER",
+        "path": "/devam-etmekte-olan-projeler",
+        "slug": "devam-etmekte-olan-projeler",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "TAMAMLANMIŞ SEVKİYATLAR",
+        "path": "/tamamlanmis-sevkiyatlar",
+        "slug": "tamamlanmis-sevkiyatlar",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "REFERANS MEKTUPLARI",
+        "path": "/referans-mektuplari",
+        "slug": "referans-mektuplari",
+        "children": null,
+        "hasChildren": false
+      }
+    ],
+    "hasChildren": true
+  },
+  {
+    "title": "BLOG - FUTURE & INNOVATION",
+    "path": "/blog-future-innovation",
+    "slug": "blog-future-innovation",
+    "children": [
+      {
+        "title": "OUR FOCUS AREAS",
+        "path": "/our-focus-areas",
+        "slug": "our-focus-areas",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "SUPPLIER",
+        "path": "/supplier",
+        "slug": "supplier",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "CUSTOMER",
+        "path": "/customer",
+        "slug": "customer",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "PARTNERSHIP",
+        "path": "/partnership",
+        "slug": "partnership",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "DEALERSHIP",
+        "path": "/dealership",
+        "slug": "dealership",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "LOYALTY",
+        "path": "/loyalty",
+        "slug": "loyalty",
+        "children": null,
+        "hasChildren": false
+      }
+    ],
+    "hasChildren": true
+  },
+  {
+    "title": "PEOPLE & CAREER",
+    "path": "/people-career",
+    "slug": "people-career",
+    "children": [
+      {
+        "title": "REQUIREMENT POLICY",
+        "path": "/requirement-policy",
+        "slug": "requirement-policy",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "CAREER MANAGEMENT",
+        "path": "/career-management",
+        "slug": "career-management",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "RECOGNITION AND REWARD POLICY",
+        "path": "/recognition-and-reward-policy",
+        "slug": "recognition-and-reward-policy",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "TALENT MANAGEMENT PROCESS",
+        "path": "/talent-management-process",
+        "slug": "talent-management-process",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "ACTIVITIES",
+        "path": "/activities",
+        "slug": "activities",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "NEWS FROM GKS",
+        "path": "/news-from-gks",
+        "slug": "news-from-gks",
+        "children": null,
+        "hasChildren": false
+      },
+      {
+        "title": "DISCOVER OUR CAREER OPPORTUNITIES",
+        "path": "/discover-our-career-opportunities",
+        "slug": "discover-our-career-opportunities",
+        "children": null,
+        "hasChildren": false
+      }
+    ],
+    "hasChildren": true
+  },
+  {
+    "title": "CONTACT",
+    "path": "/contact",
+    "slug": "contact",
+    "children": [
+      {
+        "title": "FİRMA BİLGİLERİ VE ADRESİ",
+        "path": "/firma-bilgileri-ve-adresi",
+        "slug": "firma-bilgileri-ve-adresi",
+        "children": null,
+        "hasChildren": false
+      }
+    ],
+    "hasChildren": true
+  }
+]
